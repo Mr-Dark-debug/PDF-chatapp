@@ -21,7 +21,7 @@ Link: https://pdf-chatapp.streamlit.app/
 
 -> Install the required dependencies: pip install -r requirements.txt ⚙️
 
--> Set up your Google API key and other necessary configurations. Don't worry, we'll guide you through it! 🔑
+-> Set up your Google API key and other necessary configurations. 🔑
 
 -> Run the application: streamlit run app.py ▶️
 
