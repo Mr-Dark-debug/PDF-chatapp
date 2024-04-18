@@ -2,6 +2,8 @@
 
 Welcome, fellow explorers, to the "PDF ChatGPT" project! 🌟 This exciting application combines the convenience of Streamlit with the raw power of Google's Generative AI, specifically the Gemini model. Get ready to dive into the realm of PDF files and interact with them like never before, asking questions and receiving detailed, context-aware responses that will blow your mind! 🤯
 
+Link: https://pdf-chatapp.streamlit.app/
+
 ## Features ✨
 -> PDF Upload: Upload one or multiple PDF files to kickstart your conversation adventure! 📂
 
